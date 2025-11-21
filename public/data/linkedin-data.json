@@ -1,0 +1,783 @@
+{
+  "profile": {
+    "firstName": "Mark",
+    "lastName": "Howell",
+    "headline": "Experienced Cloud Operations Leader |Customer Experience Management | Project Management | Incident Response & Forensics | Process Automation | Cyber Security",
+    "summary": "I’m an experienced Cloud Operations professional with a strong foundation in on and off prem Cloud deployments and operations, cyber security, networking, customer success, project management, and technical delivery across cloud environments. I’ve led critical onboarding projects, root cause investigations, and incident response process automation efforts for enterprise clients at IBM and beyond.  My focus has been on achieving the best customer outcomes by improving workflow and automation across traditional customer success, devops, networking, and multicloud operations. I’ve delivered measurable results, such as reducing security alert errors by 90%, accelerating onboarding by 50% via API-driven automation, and achieving 96% on-time RCA delivery through ServiceNow optimization.  I thrive at the intersection of cross-functional leadership, cloud operations and security. Whether advising senior executives, building operations playbooks, or digging into security operations involving malware analysis and EDR telemetry, I bring a customer-first mindset and a track record of leading through complexity.  🔹 Recent Work Highlights: • Led 20+ onboarding projects for IBM Security Operational Services using Agile and automation • Automated RCA workflows to eliminate 21 manual steps using ServiceNow + custom scripting • Developed and deployed an internal chatbot using Watsonx Assistant for customer instruction delivery • Built a localized AI workflow management tool using LM Studio, Anaconda, and OpenManus • Advised on ITSS Change Management and compliance for high-visibility cloud environments  Keywords / Expertise: Incident Response | Multi-Cloud | Digital Forensics | Process Improvement | RCA | SOC Enablement | Workflow Automation | Cloud Security (AWS, Azure) | Agile | ServiceNow | API Integration  | Secure localized AI for Automation",
+    "industry": "IT Services and IT Consulting",
+    "location": "Forney, Texas, United States"
+  },
+  "positions": [
+    {
+      "title": "Customer Success Project Manager / Project Executive",
+      "company": "IBM",
+      "startDate": "May 2022",
+      "endDate": "Present",
+      "duration": "",
+      "description": "• Worked as a Project Manager supporting internal customers on-boarding to our security tools like     SEIM and EDR, with subsequent SOC monitoring. This was an Agile team with standups on M,W, F     and using tools like Zenhub and Jira to manage Epics, Stories, etc.  • Worked as Project Executive for one of our largest customers, the office of the CIO. Using Agile     processes to track work, I met weekly with customer focals to discuss goals, objectives, and     project burndown. I also Identified and remediated roadblocks with internal teams and improved     service delivery.  𝗪𝗼𝗿𝗸𝗲𝗱 𝗮𝘀 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗠𝗮𝗻𝗮𝗴𝗲𝗿 𝗳𝗼𝗿 𝘀𝗽𝗲𝗰𝗶𝗮𝗹 𝗖𝗜𝗢 𝗽𝗿𝗼𝗷𝗲𝗰𝘁𝘀:  • PM for Implementation of an customer managed LDAP gateway, that would use our API to query     SOS inventory. This system would then assign the device requesting network access to an     appropriate VLAN.  • PM for the deployment of new security scanners to better support CIO network engineering     devices. The initial solution would have the devices co-managed by SOS and CIO, so I developed a     RACI to determine who was responsible, accountable, etc.  𝗪𝗼𝗿𝗸𝗲𝗱 𝗮𝘀 𝗣𝗿𝗼𝗰𝗲𝘀𝘀/𝗪𝗼𝗿𝗸𝗳𝗹𝗼𝘄 𝗦𝗽𝗲𝗰𝗶𝗮𝗹𝗶𝘀𝘁:  • Revised SOS change management and managed Change Control. Updated the existing process     and made improvements to the Github CR records.Ran the weekly Change Acceptance Board     (CAB) to review proposed changes with key technical and business stakeholders and SME.  • Worked as a process specialist to enhance SOS's customer account management portal. Met with     teams to build on existing designs, developed new Business and Functional requirements and     constructed MVP phase 1 and 2 plans."
+    },
+    {
+      "title": "IBM Cloud - Customer Success - Incident Response and Pervasive Issue Resolution ",
+      "company": "IBM",
+      "startDate": "Dec 2017",
+      "endDate": "Present",
+      "duration": "",
+      "description": "• Worked with IBM Cloud Infrastructure teams on improving Incident Management in a unified     cross-functional team approach. This included advising on problem prioritization, Identification,     remediation, and customer communications. Was able to identify bottlenecks in internal processes     and reduce time to remediation.  • Responsible for the identification and resolution of ‘Pervasive Issues’ by analyzing service impacts     across IaaS teams to identify systemic problems that spanned teams.   • Consulted  IBM Cloud Infrastructure DevOps teams, providing guidance and instruction to these     groups that consisted largely of software developers, who were now also responsible for     operations. Assisted many of these service teams redeploy virtual servers to increase resiliency     and redundancy.  • Worked with ‘BlueMix’, the predecessor to IBM Cloud on Incident Detection and Response. Helped     coordinate between Cloud Application developers, and Cloud infrastructure service teams to     mitigate customer impacting events.  • Trained and advised IBM Cloud DevOps teams on using Servicenow for Incident Management, and     on conducting root cause evaluation. This included using the five whys and writing remediation     plans that were specific, measurable, assignable, realistic, and time bound (SMART). Also, this     created time tracked Incident records and RCA sub-records that then enabled better service delivery metrics and governance"
+    },
+    {
+      "title": "Technical Account Manager",
+      "company": "IBM",
+      "startDate": "Dec 2014",
+      "endDate": "Present",
+      "duration": "",
+      "description": "• Consulted and assisted customers to achieve 98% of business goals for the design and     implementation of their IBM IaaS environment. • Assisted customers with integrating Incident and Event management across a hybrid deployment,    while adapting local support solutions to work with cloud based infrastructure     management.  • Developed new event management processes, and advocated for customer experience with     IaaS development teams. • Provided Data Visualization tools for customers to understand how and where their VSIs were    deployed in IBM Cloud."
+    },
+    {
+      "title": "IT/Project Manager",
+      "company": "Church of the Incarnation",
+      "startDate": "Jun 2013",
+      "endDate": "Present",
+      "duration": "",
+      "description": "Evaluated existing IT infrastructure, updated systems, and initiated a user-focused plan for 45 full-time staff and 150 part-time volunteers. Partnered with building planners to design systems for three new facilities, remediating old infrastructure and consulting on IT integration."
+    },
+    {
+      "title": "Assistant Director for Institutional Research",
+      "company": "Dallas Theological Seminary",
+      "startDate": "May 2004",
+      "endDate": "Present",
+      "duration": "",
+      "description": "Designed and implemented the move from paper-and-pencil tests, evaluations, and assessments to web-based platforms. Consulted on technology for online education, enabling students to meet curriculum requirements through online portfolios. Guided staff on how to apply business principles to each department, helping them continuously improve and measure their efforts."
+    },
+    {
+      "title": "Sr. Network Systems Consultant",
+      "company": "International Network Services",
+      "startDate": "Jan 1998",
+      "endDate": "Present",
+      "duration": "",
+      "description": "Managed high level projects and teams for key clients across multiple industries, including the relocation of the Airborne Express Seattle data center to DHL’s data center in Phoenix, a system change for multiple EMC enterprise customers in Ohio, and the opening of the local IT services office for Lucent Technologies in Madrid, Spain. Other projects include:  National Storage Services Company Implementation of Storage Area Networks. Completed design, implementation and testing of critical hardware and multi-host connections. Developed process documents representing best industry practices.  International Car Company Designed an IP addressing and routing strategy for all North American Dealerships utilizing hybrid terrestrial VPN and VSAT technologies.  CLEC Managed a team of consultants performing the design of a network operations center for this Baltimore based service provider. Made recommendations on business goals and objectives, service offerings, network management and operations. Delivered detailed roadmap for migration to a new Network Operations and Management Center with Best in Class staffing models, tools and procedures.  Spanish Telecommunications Company Developed process and best practice overview on Network Management Systems for their new Central Information Control (NOC) department in Madrid, Spain. Consulted on FCAPS process and procedures for delivering Service Level Agreements (SLAs) to internal and external customers Michigan Based Gas Transmission Company  IS Project Manager and Consultant for Data Center Move Project.  Utilized the INS project management process to managed the construction of new Data Center in Troy Michigan. Supervised network testing and validation. Managed the phased migration of network resources and services to new location. Consulted on best practices for Help Desk, Network Management and FCAPS processes."
+    },
+    {
+      "title": "Sr. Network Systems Engineer",
+      "company": "ADP",
+      "startDate": "1996",
+      "endDate": "Present",
+      "duration": "",
+      "description": "Built and deployed Microsoft Servers to support ADP applications. Responsibilities included the design of inter/intra net connectivity between ADP’s main datacenter in Ann Arbor and various clients across the country. Some key initiatives included the design of an automated network management platform with FCAPS processes and procedures and call tracking as well as the design, installation, and testing of network security for the enterprise."
+    },
+    {
+      "title": "Network System Engineer",
+      "company": "Electronic Data Systems",
+      "startDate": "1989",
+      "endDate": "Present",
+      "duration": "",
+      "description": "Performed network consulting and technical management for internal and external clients, including the GM account, as well as other Fortune 500 companies.  Technical management of a support staff for a campus network. Responsibilities included management of bridges, routers, IPX, TCP/IP, and SNMP protocols, preventative maintenance, capacity planning, problem tracking/reporting, and escalation procedures.  In addition, performed network consulting for companies clients. One significant project was a National Bank in Mexico, which included the design of a large client server, Network Operations Center.  The design included operational call tracking and escalation procedures, security administration, SNMP infrastructure management, software distribution, change control, disaster recovery, and performance tracking"
+    }
+  ],
+  "skills": [
+    {
+      "name": "IBM VSI",
+      "endorsements": 0
+    },
+    {
+      "name": "Amazon EC2",
+      "endorsements": 0
+    },
+    {
+      "name": "Ansible",
+      "endorsements": 0
+    },
+    {
+      "name": "Multicloud",
+      "endorsements": 0
+    },
+    {
+      "name": "VSCodium",
+      "endorsements": 0
+    },
+    {
+      "name": "AWS Glue",
+      "endorsements": 0
+    },
+    {
+      "name": "Amazon Athena",
+      "endorsements": 0
+    },
+    {
+      "name": "Databases",
+      "endorsements": 0
+    },
+    {
+      "name": "SQL",
+      "endorsements": 0
+    },
+    {
+      "name": "Amazon Web Services (AWS)",
+      "endorsements": 0
+    },
+    {
+      "name": "Terraform",
+      "endorsements": 0
+    },
+    {
+      "name": "Docker",
+      "endorsements": 0
+    },
+    {
+      "name": "Cloud Applications",
+      "endorsements": 0
+    },
+    {
+      "name": "Network Services",
+      "endorsements": 0
+    },
+    {
+      "name": "Network Systems",
+      "endorsements": 0
+    },
+    {
+      "name": "Network Design",
+      "endorsements": 0
+    },
+    {
+      "name": "Storage Area Network (SAN)",
+      "endorsements": 0
+    },
+    {
+      "name": "Wide Area Network (WAN)",
+      "endorsements": 0
+    },
+    {
+      "name": "Incident Response",
+      "endorsements": 0
+    },
+    {
+      "name": "Event Management",
+      "endorsements": 0
+    },
+    {
+      "name": "Tableau",
+      "endorsements": 0
+    },
+    {
+      "name": "Data Visualization",
+      "endorsements": 0
+    },
+    {
+      "name": "Data Analysis",
+      "endorsements": 0
+    },
+    {
+      "name": "DevOps",
+      "endorsements": 0
+    },
+    {
+      "name": "Risk Management",
+      "endorsements": 0
+    },
+    {
+      "name": "Design Thinking",
+      "endorsements": 0
+    },
+    {
+      "name": "Soft Skills",
+      "endorsements": 0
+    },
+    {
+      "name": "empathy",
+      "endorsements": 0
+    },
+    {
+      "name": "Customer Retention",
+      "endorsements": 0
+    },
+    {
+      "name": "Openproject",
+      "endorsements": 0
+    },
+    {
+      "name": "Jira",
+      "endorsements": 0
+    },
+    {
+      "name": "GitHub",
+      "endorsements": 0
+    },
+    {
+      "name": "Zenhub",
+      "endorsements": 0
+    },
+    {
+      "name": "Scrum",
+      "endorsements": 0
+    },
+    {
+      "name": "Troubleshooting",
+      "endorsements": 0
+    },
+    {
+      "name": "Technical Support",
+      "endorsements": 0
+    },
+    {
+      "name": "Reporting & Analysis",
+      "endorsements": 0
+    },
+    {
+      "name": "RCA",
+      "endorsements": 0
+    },
+    {
+      "name": "Problem Solving",
+      "endorsements": 0
+    },
+    {
+      "name": "Performance Metrics",
+      "endorsements": 0
+    },
+    {
+      "name": "Agile",
+      "endorsements": 0
+    },
+    {
+      "name": "Agile Project Management",
+      "endorsements": 0
+    },
+    {
+      "name": "Technical Writing",
+      "endorsements": 0
+    },
+    {
+      "name": "Agile Methodologies",
+      "endorsements": 0
+    },
+    {
+      "name": "Security Operations Center",
+      "endorsements": 0
+    },
+    {
+      "name": "IT Security Operations",
+      "endorsements": 0
+    },
+    {
+      "name": "Artificial Intelligence (AI)",
+      "endorsements": 0
+    },
+    {
+      "name": "Workflow Management",
+      "endorsements": 0
+    },
+    {
+      "name": "Customer Relationship Management (CRM)",
+      "endorsements": 0
+    },
+    {
+      "name": "Information Security",
+      "endorsements": 0
+    },
+    {
+      "name": "Change Management",
+      "endorsements": 0
+    },
+    {
+      "name": "Training Delivery",
+      "endorsements": 0
+    },
+    {
+      "name": "Software Project Management",
+      "endorsements": 0
+    },
+    {
+      "name": "Research Skills",
+      "endorsements": 0
+    },
+    {
+      "name": "Creative Writing",
+      "endorsements": 0
+    },
+    {
+      "name": "ServiceNow Administration",
+      "endorsements": 0
+    },
+    {
+      "name": "Process Engineering",
+      "endorsements": 0
+    },
+    {
+      "name": "Business Process",
+      "endorsements": 0
+    },
+    {
+      "name": "Business Process Improvement",
+      "endorsements": 0
+    },
+    {
+      "name": "Program Management",
+      "endorsements": 0
+    },
+    {
+      "name": "Cloud Computing",
+      "endorsements": 0
+    },
+    {
+      "name": "IT Service Management",
+      "endorsements": 0
+    },
+    {
+      "name": "Project Management",
+      "endorsements": 0
+    },
+    {
+      "name": "Enterprise IT Infrastructure",
+      "endorsements": 0
+    },
+    {
+      "name": "Leadership",
+      "endorsements": 0
+    },
+    {
+      "name": "Team Building",
+      "endorsements": 0
+    },
+    {
+      "name": "SaaS",
+      "endorsements": 0
+    },
+    {
+      "name": "Teaching",
+      "endorsements": 0
+    },
+    {
+      "name": "Customer Service",
+      "endorsements": 0
+    },
+    {
+      "name": "Microsoft Office",
+      "endorsements": 0
+    },
+    {
+      "name": "Cross-functional Team Leadership",
+      "endorsements": 0
+    },
+    {
+      "name": "Public Speaking",
+      "endorsements": 0
+    },
+    {
+      "name": "Historical Theology",
+      "endorsements": 0
+    },
+    {
+      "name": "Theology",
+      "endorsements": 0
+    },
+    {
+      "name": "Outlook",
+      "endorsements": 0
+    },
+    {
+      "name": "Microsoft Word",
+      "endorsements": 0
+    },
+    {
+      "name": "PowerPoint",
+      "endorsements": 0
+    },
+    {
+      "name": "Church Events",
+      "endorsements": 0
+    },
+    {
+      "name": "History",
+      "endorsements": 0
+    },
+    {
+      "name": "Team Leadership",
+      "endorsements": 0
+    },
+    {
+      "name": "Leadership Development",
+      "endorsements": 0
+    },
+    {
+      "name": "Management",
+      "endorsements": 0
+    },
+    {
+      "name": "Consulting",
+      "endorsements": 0
+    }
+  ],
+  "education": [
+    {
+      "school": "Dallas Theological Seminary",
+      "fieldOfStudy": "",
+      "startDate": "",
+      "endDate": ""
+    },
+    {
+      "school": "Dallas Theological Seminary",
+      "fieldOfStudy": "",
+      "startDate": "",
+      "endDate": ""
+    },
+    {
+      "school": "William Tyndale College",
+      "fieldOfStudy": "",
+      "startDate": "",
+      "endDate": ""
+    },
+    {
+      "school": "First Coast Technical College",
+      "fieldOfStudy": "",
+      "startDate": "",
+      "endDate": ""
+    }
+  ],
+  "certifications": [
+    {
+      "name": "MCP",
+      "issuer": "",
+      "date": ""
+    },
+    {
+      "name": "CCNA",
+      "issuer": "",
+      "date": ""
+    },
+    {
+      "name": "Enterprise Design Thinking Practitioner",
+      "issuer": "",
+      "date": ""
+    },
+    {
+      "name": "Data Science Tools",
+      "issuer": "",
+      "date": ""
+    },
+    {
+      "name": "Enterprise Design Thinking Practitioner",
+      "issuer": "",
+      "date": ""
+    },
+    {
+      "name": "Enterprise Design Thinking - Team Essentials for AI",
+      "issuer": "",
+      "date": ""
+    },
+    {
+      "name": "Cloud Essentials",
+      "issuer": "",
+      "date": ""
+    },
+    {
+      "name": "Security and Privacy by Design Foundations",
+      "issuer": "",
+      "date": ""
+    },
+    {
+      "name": "Data Science Methodologies",
+      "issuer": "",
+      "date": ""
+    },
+    {
+      "name": "IBM watsonx Essentials",
+      "issuer": "",
+      "date": ""
+    },
+    {
+      "name": "IBM AI Associate Data Scientist",
+      "issuer": "",
+      "date": ""
+    },
+    {
+      "name": "IBM Agile Advocate",
+      "issuer": "",
+      "date": ""
+    },
+    {
+      "name": "Fundamentals of Visualization with Tableau",
+      "issuer": "",
+      "date": ""
+    },
+    {
+      "name": "Incident Response and Digital Forensics",
+      "issuer": "",
+      "date": ""
+    },
+    {
+      "name": "Cloud and AWS Basics",
+      "issuer": "",
+      "date": ""
+    }
+  ],
+  "recommendations": [
+    {
+      "author": "Sushant",
+      "authorTitle": "",
+      "authorCompany": "Acuative",
+      "text": "",
+      "date": "",
+      "relationship": ""
+    },
+    {
+      "author": "Steven",
+      "authorTitle": "",
+      "authorCompany": "IBM",
+      "text": "",
+      "date": "",
+      "relationship": ""
+    },
+    {
+      "author": "Donna",
+      "authorTitle": "",
+      "authorCompany": "IBM",
+      "text": "",
+      "date": "",
+      "relationship": ""
+    },
+    {
+      "author": "Derek",
+      "authorTitle": "",
+      "authorCompany": "IBM",
+      "text": "",
+      "date": "",
+      "relationship": ""
+    },
+    {
+      "author": "Shaun",
+      "authorTitle": "",
+      "authorCompany": "CDK Global",
+      "text": "",
+      "date": "",
+      "relationship": ""
+    },
+    {
+      "author": "Mark",
+      "authorTitle": "",
+      "authorCompany": "IBM",
+      "text": "",
+      "date": "",
+      "relationship": ""
+    },
+    {
+      "author": "Jerry",
+      "authorTitle": "",
+      "authorCompany": "IBM",
+      "text": "",
+      "date": "",
+      "relationship": ""
+    },
+    {
+      "author": "Chris",
+      "authorTitle": "",
+      "authorCompany": "IBM",
+      "text": "",
+      "date": "",
+      "relationship": ""
+    },
+    {
+      "author": "Ralph",
+      "authorTitle": "",
+      "authorCompany": "IBM United Kingdom Ltd",
+      "text": "",
+      "date": "",
+      "relationship": ""
+    },
+    {
+      "author": "Bud",
+      "authorTitle": "",
+      "authorCompany": "IBM",
+      "text": "",
+      "date": "",
+      "relationship": ""
+    },
+    {
+      "author": "Viktoriia",
+      "authorTitle": "",
+      "authorCompany": "IBM",
+      "text": "",
+      "date": "",
+      "relationship": ""
+    },
+    {
+      "author": "Brian",
+      "authorTitle": "",
+      "authorCompany": "IBM",
+      "text": "",
+      "date": "",
+      "relationship": ""
+    },
+    {
+      "author": "Brian",
+      "authorTitle": "",
+      "authorCompany": "IBM",
+      "text": "",
+      "date": "",
+      "relationship": ""
+    },
+    {
+      "author": "Charles",
+      "authorTitle": "",
+      "authorCompany": "Fifth Third Bank",
+      "text": "",
+      "date": "",
+      "relationship": ""
+    },
+    {
+      "author": "Steven",
+      "authorTitle": "",
+      "authorCompany": "IBM",
+      "text": "",
+      "date": "",
+      "relationship": ""
+    },
+    {
+      "author": "Angelo G.",
+      "authorTitle": "",
+      "authorCompany": "Longo Cyber Technologies",
+      "text": "",
+      "date": "",
+      "relationship": ""
+    },
+    {
+      "author": "Andy",
+      "authorTitle": "",
+      "authorCompany": "All Souls' Episcopal Church",
+      "text": "",
+      "date": "",
+      "relationship": ""
+    },
+    {
+      "author": "Angelo G.",
+      "authorTitle": "",
+      "authorCompany": "Longo Cyber Technologies",
+      "text": "",
+      "date": "",
+      "relationship": ""
+    },
+    {
+      "author": "Warren",
+      "authorTitle": "",
+      "authorCompany": "The Summit Church",
+      "text": "",
+      "date": "",
+      "relationship": ""
+    }
+  ],
+  "projects": [
+    {
+      "title": "Scrum Based Help-desk Implementation",
+      "description": "How does a growing church respond to technical problems for a staff of 45, plus a volunteer base of over 150 people? Using an initial product backlog derived from all stakeholders, Mark developed an IT help desk solution, deployed and updated in multiple sprints. This solution proved so successful that it was adopted by campus facilities.",
+      "startDate": "",
+      "endDate": ""
+    },
+    {
+      "title": "Student Learning Portfolios",
+      "description": "How does a student track, curate, and share the best of his or her work across multiple learning disciplines in the electronic age? Mark investigated the needs of graduate students in over a dozen degree programs and designed a student learning portfolio solution using Agile principles. ",
+      "startDate": "",
+      "endDate": ""
+    },
+    {
+      "title": "Online Student Testing and Assessment",
+      "description": "How do you implement an online testing and assessment system when the previous technology is outdated? Mark managed multiple sprints, rolling out changes and continuous improvements, replacing underlying software and integrating the school database and online course systems. ",
+      "startDate": "",
+      "endDate": ""
+    },
+    {
+      "title": "Data Center Relocation",
+      "description": "When an international shipping company acquires a domestic express delivery service, how do you merge the people and data? Mark orchestrated the many moving parts of this project, overseeing programmers, network engineers, and logistics personnel.",
+      "startDate": "",
+      "endDate": ""
+    },
+    {
+      "title": "Project Manager NAS implementation",
+      "description": "How do you change your system with minimal impact on your enterprise clients? Mark managed the integration of EMC NAS products into existing network infrastructures, using wise planning and existing maintenance windows to insure project was invisible to the end users.",
+      "startDate": "",
+      "endDate": ""
+    },
+    {
+      "title": "High Security International Banking Operations Center",
+      "description": "When the national bank of Mexico (El Banco de México) needs a new server for its Letter of Credit operations center, how do you meet their need? Mark designed the new system, including local network, security, servers, and management. He then managed the implementation, supervising the operations team for three months while training nationals on security administration, infrastructure management, change control, disaster recovery, and performance tracking.",
+      "startDate": "",
+      "endDate": ""
+    },
+    {
+      "title": "Network Assessment Preparing for Change",
+      "description": "How does a business insure that their systems are ready for the next step? Mark performed network load tests, a switching and routing assessment, and examined storage and computer operation center practices prior to the implementation of a new commercial scheduling system for Turner Broadcasting. . ",
+      "startDate": "",
+      "endDate": ""
+    },
+    {
+      "title": "Network Management Implementation",
+      "description": "How do you stay ahead of problems within your network? Mark designed a network management solution with device-level monitoring, positioning the IT staff to address network problems before they affected the end user. This monitoring revealed critical issues in the mail system, allowing Mark to develop a migration plan that saved the customer’s data and ultimately the cost of data recovery. ",
+      "startDate": "",
+      "endDate": ""
+    },
+    {
+      "title": "Data Center Relocation - Gas Company",
+      "description": "How do you move a live data center for a busy gas company? Mark utilized the INS project management process to oversee the construction of a new Data Center in Troy Michigan. This included supervising network testing and validation, while managing a phased migration of network resources and services to the new location. He followed this with consulting on best practices for Help Desk and Network Management processes. ",
+      "startDate": "",
+      "endDate": ""
+    },
+    {
+      "title": "Nonprofits and Education",
+      "description": "How do you improve on 20+ years experience in IT consulting and project management? Mark added nonprofits to his portfolio while obtaining advanced degrees, broadening his research, writing, presenting, coaching, and teaching skills. ",
+      "startDate": "Jun 2004",
+      "endDate": ""
+    },
+    {
+      "title": "IBM Cloud Infrastructure RCA Process",
+      "description": "When I started at IBM, the cloud infrastructure was largely composed from the SoftLayer acquisition, which had only happened three years previous. Shortly after I arrived, IBM Cloud selected to migrate to ServiceNow for customer tickets, Incident Response, and RCA work. First the software dev teams moved over and as they moved, the Cloud Servicenow instance was customized for how SOFTWARE dev teams manage devops.  When I was given the task to develop a customer facing process for RCAs, I realized I first had to help migrate IBM Cloud Infrastructure to ServiceNow. This meant I had to work with the product owners and explain the unique requirements of INFRASTRUCTURE teams when managing incident response and RCAs.Then I had to work with the ServiceNow developers to update incident forms, ticket forms, etc. to include things like Datacenter name and location, Hardware makes and models, collaboration pathways between Network, Platform, and Development teams. Once I helped integrate and test these new customization's, I was asked to help train the Infrastructure teams on how to use Cloud ServiceNow for incident management. This was not an easy task, but the transition was accomplished successfully.",
+      "startDate": "Mar 2017",
+      "endDate": ""
+    },
+    {
+      "title": "IBM Cloud 'Customer Incident Response' Process",
+      "description": "After successfully moving IBM Cloud Infrastructure over to ServiceNow, I was asked to design a process for customers who were impacted by an outage, to request a copy of the RCA.  I examined the RCA process we were running in ServiceNow and found it to not be customer consumable. I also found some gaps in how the process was being run. Since management wanted RCA information available to all impacted customers, I had to address these gaps.   Infrastructure teams were using both ServiceNow and the old SoftLayer system, as it had more tools for working with DataCenters, Servers, Power Management, etc. This system unfortunately had conflicting time information and other issues. This lead to conflicts on identification of the root cause. A DevOps team who experienced an issue will have a different view of the incident than the network or database teams.  I updated the RCA process to include the 'Five Whys' of root cause determination. This proved difficult for teams to exercise in practice. I developed and taught all infrastructure teams on the new RCA process and included an detailed walk-through of the Five Whys.   Finally, I developed a new document called the 'Customer Incident Response' document that provided a customer accessible version of the internal RCA. This included removing any restricted information. Also, the language was updated to be less technical and more easily understood. In this document, we explained the event details, identified the root cause, and the specific actions that would be taken to ensure this kind of event did not reoccur.  I had additional functionality implemented in ServiceNow, so customers could check a box in a support ticket and it would kick off this now fairly automated process.",
+      "startDate": "Jan 2019",
+      "endDate": ""
+    },
+    {
+      "title": "IBM SOS Watson X Challenge",
+      "description": "Since I'm all about process improvement, I decided to use the WatsonX challenge for employees to create something useful to my team.   We have git pages with instructions for our internal customers, but they are managed by several people and it can sometimes be difficult to navigate.   I cloned the gitpage repo hosting these customer pages, then embedded a Watson Assistant agent. I programmed the assistant with some commonly asked questions our team receives, and linked to the best pages to find the requested information.   While this was basically a tech-demo, the results were positive and the benefit to customers was obvious. Watson Assistant understood variations of the questions, and summarized the correct information to customers, while directing them to the correct web-pages for further information.   Further research and testing showed that I could use 'LM Studio' to host a local LLM, link that to 'Anything LLM' where I could import all our data from the Git-pages. Then the Natural Language abilities would greatly improve, and the AI would search all documents, and compile a more through response with links. This became my next skunkworks (unofficial) project.",
+      "startDate": "Jul 2024",
+      "endDate": ""
+    },
+    {
+      "title": "IBM SOS Change Management",
+      "description": "Shortly after moving from Cloud to Security Operational Services (SOS), I was asked to look at the change control process. Some process documentation existed, but was in need of updating.   I updated the process, connecting 'Change Requests' made in GitHub to the updated process. Additionally, these change requests were reviewed by a 'Change Acceptance' board (CAB), but there were some gaps.   - I updated the CAB review process to:    - Require a deadline for the weekly call so Architects could have time to review CR and be ready for CAB    - Require a quorum for review and approval    - Updated the CR template with a better process flow that included labels for internal approval, CAB request, and CAB approval.   I ran the weekly CAB calls, notifying reviews via Slack in advance of any reviews, to give them time to prepare. I recorded the calls for additional audit evidence, and approved all CR that passed the CAB.   These changes greatly improved the operation of change management in my new organization.",
+      "startDate": "May 2022",
+      "endDate": ""
+    },
+    {
+      "title": "IBM SOS Customer Project Management",
+      "description": "After I started in Security Operational Services (SOS), we began organizing customer more into Business Units (BU), rather than individual teams. This proved beneficial to specifically address the business drivers, risks, timelines, and outcomes for these organizations.   I was given the CIO office as my internal customer. I served as the SOS Project Manager for CIO. Here is a small subset of my work:  - Managed the on-boarding of IBM internal teams to the Security Operations Center (SOC). Conducted weekly calls with the CIO Business Information Security Officer (BISO) to make sure SOS was addressing any security concerns and that the associated security projects were progressing. - Managed a project to improve scanning by implementing a new scanner design/deployment. This included developing a 'Responsibility Assignment Matrix' (RACI) to document roles and responsibilities. Also lead calls to identify issues and worked collaborativley with disperate teams to mitigate. - Managed a project to assist CIO's network engineering with implementing an process for authenticating devices requesting network access, and assigning them to the correct VLANS. This process interacted with our SOS database, which was the 'source of truth' document for registered devices.  - Managed a project to deploy Distributed Log Collectors (DLC) for CIO to communicate with the SOS SIEM and send revelant logs for monitoring by the Security Operations Center (SOC)",
+      "startDate": "Jul 2023",
+      "endDate": ""
+    },
+    {
+      "title": "IBM SOS Proof of Concept for Localized AI integration",
+      "description": "Using the outcome of my WatsonX Challenge (see other accomplishment), I wanted to build a 'proof of concept. Due to data security regulations (and no budget), I had to use use free open source AI solutions.  The initial POC was to help our team interact with customer account data more efficiently.   1. I installed 'SQL server' and 'MySQLWorkbench' on my laptop and imported our customer account data.   2. I installed LM studio and downloaded an IBM LLM for testing.   3. I installed Anywhere LLM and imported our customer facing documentation.   4. I installed 'Anaconda' to run programs in an isolated environment. I installed tools like 'Visual Studio Code', 'Juypter Lab', and others.   Once initial configuration was done, I was able to make queries about customer documentation in Anywhere LLM, and have it use the IBM LLM in LM Studio to understand and answer the natural language question.   The next step was to connect to the SQL database and ask natural language questions about these data. Unfortunately this POC was interrupted by the need to look for another work opportunity, so I've moved this idea over to my personal systems and am improving on the concept by running n8n in a docker container. I'll post about this in a blog update.",
+      "startDate": "Jan 2025",
+      "endDate": ""
+    },
+    {
+      "title": "Terraform Lab",
+      "description": "This repository demonstrates a Terraform testbed managing cloud and local resources:  - AWS S3 Bucket: Deployed a uniquely named S3 bucket in AWS. - Docker Nginx Container: Ran an Nginx web server on a local Ubuntu workstation.  Purpose: Built to practice infrastructure as code (IaC), showcasing Terraform, AWS, and Docker skills.",
+      "startDate": "Jun 2025",
+      "endDate": ""
+    },
+    {
+      "title": "AWS Athena Data Lab",
+      "description": "A Terraform project deploying an Amazon S3 bucket, Glue DB, and Athena workgroup, populated with public product data and then queried via Athena.",
+      "startDate": "Jul 2025",
+      "endDate": ""
+    },
+    {
+      "title": "Multicloud Lab with Terraform and Ansible",
+      "description": "Excited to share my latest cloud lab project on GitHub!  I’ve built and automated a multi-cloud environment using Terraform to provision an AWS EC2 instance and an IBM Virtual Server Instance (VSI), then configured them with Ansible to install Python 3.10 and pip for AI workloads. This hands-on setup tackled real-world challenges like SSH key management, security group tweaks, and pip installation quirks.   Check out the repo here: https://github.com/Cloud-Ops-Dev/cloud-lab-terraform-ansible  Highlights: VPC/subnet setup, floating IP management, and a polished README with screenshots. Lessons: Region consistency, secure API handling, and automating with precision.  Next up, looking at IBM Watson automation with Cisco/Juniper network simulations to blend AI with networking—stay tuned! Open to connect with cloud enthusiasts, DevOps pros, or anyone hiring for infrastructure and automation roles. Let’s chat!  #CloudComputing #DevOps #Terraform #Ansible #AI #Networking #JobSearch",
+      "startDate": "Aug 2025",
+      "endDate": ""
+    }
+  ]
+}
