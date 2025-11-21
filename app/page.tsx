@@ -1,6 +1,9 @@
 import Hero from '@/components/Hero';
 import Experience from '@/components/Experience';
 import Skills from '@/components/Skills';
+import Education from '@/components/Education';
+import Certifications from '@/components/Certifications';
+import Projects from '@/components/Projects';
 import Recommendations from '@/components/Recommendations';
 import { getLinkedInData } from '@/lib/linkedin-data';
 
@@ -12,6 +15,9 @@ export default async function Home() {
       <Hero profile={data.profile} />
       <Experience positions={data.positions} />
       <Skills skills={data.skills} topCount={20} />
+      <Education education={data.education} />
+      <Certifications certifications={data.certifications} />
+      <Projects projects={data.projects} limit={8} />
       <Recommendations recommendations={data.recommendations} limit={6} />
 
       {/* Footer */}
